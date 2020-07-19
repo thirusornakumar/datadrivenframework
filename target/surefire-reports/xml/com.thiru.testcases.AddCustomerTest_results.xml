@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AddCusmtomerTest"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.874">
+  <properties />
+  
+  
+            <testcase name="addCustomer" time="4.315" classname="com.thiru.testcases.AddCustomerTest" />
+                <testcase name="addCustomer" time="4.559" classname="com.thiru.testcases.AddCustomerTest" />
+      
+</testsuite>

@@ -1,0 +1,8 @@
+13:35:56,671 DEBUG devpinoylogger:48 - Config File Loaded
+13:35:56,677 DEBUG devpinoylogger:52 - Object Repository  File Loaded
+13:36:01,201 DEBUG devpinoylogger:57 - Chrome Driver Initialized
+13:36:01,960 DEBUG devpinoylogger:59 - Navigating to Homepage
+13:36:04,175 DEBUG devpinoylogger:15 - Inside the LonginasBM Method
+13:36:04,414 DEBUG devpinoylogger:17 - Completed the LonginasBM Method
+13:36:07,444 DEBUG devpinoylogger:21 - Succesfully logged in
+13:36:22,687 DEBUG devpinoylogger:82 - Closing the chromedriver

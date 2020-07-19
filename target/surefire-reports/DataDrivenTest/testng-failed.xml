@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [DataDrivenTest]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="com.thiru.listeners.CustomListeners"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="LoginTest(failed)">
+    <classes>
+      <class name="com.thiru.testcases.BankManagerLoginTest">
+        <methods>
+          <include name="loginasBM"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.thiru.testcases.BankManagerLoginTest -->
+    </classes>
+  </test> <!-- LoginTest(failed) -->
+</suite> <!-- Failed suite [DataDrivenTest] -->

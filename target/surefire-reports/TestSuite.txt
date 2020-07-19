@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 21.73 s <<< FAILURE! - in TestSuite
+com.thiru.testcases.BankManagerLoginTest.loginasBM  Time elapsed: 3.383 s  <<< FAILURE!
+java.lang.AssertionError: Login failed
+	at com.thiru.testcases.BankManagerLoginTest.loginasBM(BankManagerLoginTest.java:23)
+
